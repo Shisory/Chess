@@ -1,0 +1,3 @@
+/home/shisory/Desktop/Chess/build/CMakeFiles/rebuild_cache.dir
+/home/shisory/Desktop/Chess/build/CMakeFiles/edit_cache.dir
+/home/shisory/Desktop/Chess/build/CMakeFiles/Chess.dir
