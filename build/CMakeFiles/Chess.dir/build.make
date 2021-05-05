@@ -79,6 +79,9 @@ Chess_EXTERNAL_OBJECTS =
 
 Chess: CMakeFiles/Chess.dir/src/main.cpp.o
 Chess: CMakeFiles/Chess.dir/build.make
+Chess: external/glfw/src/libglfw3.a
+Chess: /usr/lib/x86_64-linux-gnu/librt.so
+Chess: /usr/lib/x86_64-linux-gnu/libm.so
 Chess: CMakeFiles/Chess.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shisory/Desktop/Chess/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Chess"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Chess.dir/link.txt --verbose=$(VERBOSE)
